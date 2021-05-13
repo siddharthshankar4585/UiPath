@@ -1,7 +1,7 @@
 {
-  "name": "BlankProcess2",
+  "name": "BlankProcess4",
   "description": "Blank Process",
-  "main": "LaunchAcmeURL.xaml",
+  "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.10.4]",
     "UiPath.Mail.Activities": "[1.10.4]",
@@ -12,7 +12,7 @@
   "entitiesStores": [],
   "schemaVersion": "4.0",
   "studioVersion": "21.4.3.0",
-  "projectVersion": "1.0.6",
+  "projectVersion": "1.0.0",
   "runtimeOptions": {
     "autoDispose": false,
     "isPausable": true,
@@ -43,13 +43,7 @@
   "entryPoints": [
     {
       "filePath": "Main.xaml",
-      "uniqueId": "5abe07cc-fdd6-48bb-8077-0c11c771e9bd",
-      "input": [],
-      "output": []
-    },
-    {
-      "filePath": "LaunchAcmeURL.xaml",
-      "uniqueId": "cd521eb5-0b9f-47d6-98c8-f678ae71b1bd",
+      "uniqueId": "9b394902-0d4d-4821-a8a1-db512191978c",
       "input": [],
       "output": []
     }
